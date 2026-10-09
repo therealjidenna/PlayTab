@@ -1,5 +1,5 @@
 # PlayTab: this ONE file contains the whole app and builds the APK in the cloud.
-name: Build PlayTab APK
+name: Build PlayTab APK 
 
 on:
   push:
